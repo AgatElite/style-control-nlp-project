@@ -8,7 +8,7 @@ This repository contains the full code and documentation for the "CTRL + Style" 
 
 ## Abstract
 
-> [cite\_start]The ability to understand and replicate nuanced human expression is a key challenge for large language models (LLMs)[cite: 8]. [cite\_start]This project explores the intersection of natural language processing and literary analysis by investigating how modern transformer models internally represent the distinct authorial voices of Fyodor Dostoevsky and Charles Dickens[cite: 10]. [cite\_start]By examining the vector space representations of their works and attempting controlled style transfer, we aim to shed light on both the capabilities and the inherent biases of these powerful models when confronted with the subtleties of literary art[cite: 11].
+> The ability to understand and replicate nuanced human expression is a key challenge for large language models (LLMs). This project explores the intersection of natural language processing and literary analysis by investigating how modern transformer models internally represent the distinct authorial voices of Fyodor Dostoevsky and Charles Dickens. By examining the vector space representations of their works and attempting controlled style transfer, we aim to shed light on both the capabilities and the inherent biases of these powerful models when confronted with the subtleties of literary art.
 
 -----
 
