@@ -40,7 +40,3 @@ The style transfer portion of the notebook (Cell 9 onwards) requires a **Google 
     1.  Run Cells 2 and 3 once to generate `final_corpus.csv` and `stylistic_embeddings.npz`.
     2.  Run Cell 4 to save these artifacts to your Google Drive.
     3.  In future sessions, you can **start at Cell 5** to load the pre-processed data and embeddings directly from your Drive, skipping the long initial steps.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
