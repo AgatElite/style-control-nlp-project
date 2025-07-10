@@ -12,19 +12,6 @@ This repository contains the full code and documentation for the "CTRL + Style" 
 
 -----
 
-## Repository Structure
-
-```
-.
-├── CTRL_Style_Analysis.ipynb     # The main Jupyter/Colab notebook with all code.
-├── Project-Paper.pdf             # The final 6-page research paper.
-├── Presentation.md               # The source file for the final presentation.
-├── Guidelines.md                 # The original project guidelines from the professor.
-└── README.md                     # You are here.
-```
-
------
-
 ## Setup and Execution
 
 ### 1\. Get API Key
