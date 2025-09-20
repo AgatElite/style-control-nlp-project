@@ -8,7 +8,7 @@ This repository contains the full code and documentation for the "CTRL + Style" 
 
 ## Abstract
 
-> The ability to understand and replicate nuanced human expression is a key challenge for large language models (LLMs). This project explores the intersection of natural language processing and literary analysis by investigating how modern transformer models internally represent the distinct authorial voices of Fyodor Dostoevsky and Charles Dickens. By examining the vector space representations of their works and attempting controlled style transfer, we aim to shed light on both the capabilities and the inherent biases of these powerful models when confronted with the subtleties of literary art.
+The ability to understand and replicate nuanced human expression is a key challenge for large language models. This project explores the intersection of natural language processing and literary analysis by investigating how modern transformer models internally represent the distinct authorial voices of Fyodor Dostoevsky and Charles Dickens. By examining the vector space representations of their works and attempting controlled style transfer, we aim to shed light on both the capabilities and the inherent biases of these models when confronted with the subtleties of literary art.
 
 -----
 
@@ -24,13 +24,7 @@ This repository contains the full code and documentation for the "CTRL + Style" 
 
 -----
 
-## Setup and Execution
-
-### 1\. Get API Key
-
-The style transfer portion of the notebook (Cell 9 onwards) requires a **Google AI API Key**. You can obtain one from [Google AI Studio](https://aistudio.google.com/).
-
-### 2\. Running the Notebook
+## Running the Notebook
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AgatElite/style-control-nlp-project/blob/main/Style%2BControl.ipynb)
 
