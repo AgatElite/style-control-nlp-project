@@ -2,10 +2,6 @@
 
 [](https://www.python.org/downloads/release/python-390/) [](https://opensource.org/licenses/MIT)
 
-This repository contains the full code and documentation for the "CTRL + Style" project, submitted for the Natural Language Processing course at the Università degli Studi di Milano.
-
------
-
 ## Abstract
 
 The ability to understand and replicate nuanced human expression is a key challenge for large language models. This project explores the intersection of natural language processing and literary analysis by investigating how modern transformer models internally represent the distinct authorial voices of Fyodor Dostoevsky and Charles Dickens. By examining the vector space representations of their works and attempting controlled style transfer, we aim to shed light on both the capabilities and the inherent biases of these models when confronted with the subtleties of literary art.
