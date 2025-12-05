@@ -23,8 +23,8 @@ found in later layers.
 
 ```
 .
-├── CTRL_Style_Analysis.ipynb     # The main Jupyter/Colab notebook with all code.
-├── Paper.pdf             # The final 6-page research paper.
+├── CTRL_Style_Analysis.ipynb     # Colab notebook with all code.
+├── Paper.pdf                     # The final research paper.
 └── README.md                     # You are here.
 ```
 
