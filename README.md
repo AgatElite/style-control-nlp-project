@@ -2,6 +2,14 @@
 
 [](https://www.python.org/downloads/release/python-390/) [](https://opensource.org/licenses/MIT)
 
+-----
+
+## Running the Notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AgatElite/style-control-nlp-project/blob/main/Style%2BControl.ipynb)
+
+-----
+
 ## Abstract
 
 This study investigates how literary style is encoded in the vector space of Large
@@ -16,12 +24,6 @@ content and fail to detect the style change. In contrast, the lower layers (Laye
 2) successfully identify the new style. This suggests that literary style is encoded
 in the early structural layers of the model, separate from the high-level meaning
 found in later layers.
-
------
-
-## Running the Notebook
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AgatElite/style-control-nlp-project/blob/main/Style%2BControl.ipynb)
 
 -----
 
