@@ -29,8 +29,8 @@ found in later layers.
 
 ```
 .
-├── CTRL_Style_Analysis.ipynb     # Colab notebook with all code.
-├── Paper.pdf                     # The final research paper.
+├── CTRL_Style_Analysis.ipynb     # Colab notebook with all the code.
+├── Paper.pdf                     # The final paper.
 └── README.md                     # You are here.
 ```
 
